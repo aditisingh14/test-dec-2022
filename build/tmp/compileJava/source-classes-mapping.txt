@@ -1,0 +1,7 @@
+com/example/testcontainers/repositories/ProductRepository.java
+ com.example.testcontainers.repositories.ProductRepository
+com/example/testcontainers/entities/Product.java
+ com.example.testcontainers.entities.Product
+ com.example.testcontainers.entities.Product$ProductBuilder
+com/example/testcontainers/TestcontainersApplication.java
+ com.example.testcontainers.TestcontainersApplication
